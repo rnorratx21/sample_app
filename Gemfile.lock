@@ -55,6 +55,7 @@ GEM
     mime-types (1.22)
     multi_json (1.7.2)
     nokogiri (1.5.9-x86-mingw32)
+    pg (0.14.1-x86-mingw32)
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
@@ -124,6 +125,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
+  pg
   rails (= 3.2.12)
   rspec (= 2.0.1)
   rspec-rails (= 2.0.1)
